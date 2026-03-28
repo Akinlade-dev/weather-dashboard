@@ -1,4 +1,4 @@
-const API_KEY = 'a1b2c3d4e5f678901234567890123456'; // Replace with your actual API key
+const API_KEY = 'f31e9ed19450aeab7ca24e84e8ae3d84'; // Replace with your actual API key
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 async function getWeather() {
